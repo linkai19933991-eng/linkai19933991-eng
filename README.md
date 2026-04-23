@@ -1,16 +1,16 @@
-## Hi there 👋
+# KE FUJIN / LK Studio
 
-<!--
-**linkai19933991-eng/linkai19933991-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent studio focused on internal content translation and multilingual text processing workflows.
 
-Here are some ideas to get you started:
+## Focus
+- Translation workflows
+- Long-text editing and rewriting
+- Terminology consistency
+- Internal text processing automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notes
+This profile is used to present current work and workflow-related projects.
+
+## Contact
+- GitHub: https://github.com/linkai19933991-eng
+- Email: linkai19933991@gmail.com
